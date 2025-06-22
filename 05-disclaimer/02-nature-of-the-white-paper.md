@@ -1,0 +1,9 @@
+# Nature of the White Paper
+
+This Whitepaper is intended for general informational purposes and community discussion only and does not constitute a prospectus, an offer document, an offer of securities, a solicitation for investment, or any offer to sell any product, item, or asset (whether digital or otherwise). The information herein may not be exhaustive and does not imply any element of a contractual relationship.
+
+Nothing contained in this Whitepaper is or may be relied upon as a promise, representation, or undertaking as to the future performance of the Vayu.network. There is no assurance as to the accuracy or completeness of such information, and no representation, warranty, or undertaking is or purported to be provided as to the accuracy or completeness of such information. Any agreement between any distributor and you, in relation to any sale, purchase, or other distribution of `$VAYU` tokens, is to be governed only by the separate terms and conditions of such agreement.
+
+Where this Whitepaper includes information that has been obtained from third-party sources, the Vayu.network team has not independently verified the accuracy or completion of such information. Further, you acknowledge that circumstances may change and that this Whitepaper may become outdated as a result, and the Vayu.network team is under no obligation to update or correct this document.
+
+The information set out in this Whitepaper is for community discussion only and is not legally binding. No person is bound to enter into any contract or binding legal commitment in relation to the acquisition of any `$VAYU` token, and no cryptocurrency or other form of payment is to be accepted on the basis of this Whitepaper. Any agreement governing the sale or acquisition of `$VAYU` tokens shall be governed by a separate set of Terms of Service. In the event of any inconsistencies between the Terms of Service and this Whitepaper, the Terms of Service shall prevail. 

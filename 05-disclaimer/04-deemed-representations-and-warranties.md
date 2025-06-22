@@ -1,0 +1,9 @@
+# Deemed Representations and Warranties
+
+By accessing this Whitepaper or the Vayu.network Website (or any part thereof), you shall be deemed to represent and warrant to the Vayu.network company, its affiliates, and the Vayu team as follows:
+
+1.  In any decision to acquire any `$VAYU`, you have not relied on any statement set out in this Whitepaper or the Website.
+2.  You will and shall at your own expense ensure compliance with all laws, regulatory requirements, and restrictions applicable to you.
+3.  You acknowledge, understand, and agree that `$VAYU` may have no value, there is no guarantee or representation of value or liquidity for `$VAYU`, and `$VAYU` is not an investment product nor is it intended for any speculative investment whatsoever.
+4.  None of the Vayu.network company, its affiliates, and/or the Vayu team members shall be responsible for or liable for the value of `$VAYU`, the transferability and/or liquidity of `$VAYU`, and/or the availability of any market for `$VAYU` through third parties or otherwise.
+5.  You acknowledge, understand, and agree that you are not eligible to participate in any distribution of `$VAYU` if you are a citizen, national, resident (tax or otherwise), domiciliary, and/or green card holder of a geographic area or country (i) where it is likely that the distribution of `$VAYU` would be construed as the sale of a security (howsoever named), financial service or investment product and/or (ii) where participation in token distributions is prohibited by applicable law, decree, regulation, treaty, or administrative act (including without limitation the United States of America, Canada, New Zealand, the People's Republic of China, and the Socialist Republic of Vietnam); and to this effect, you agree to provide all such identity verification documents when requested in order for the relevant checks to be carried out. 
