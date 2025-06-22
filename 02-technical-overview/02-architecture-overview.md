@@ -9,27 +9,28 @@ The Vayu.network architecture is designed as a robust, scalable, and secure syst
 ```mermaid
 graph TD
     subgraph "Flux Device"
-        A["Sensors <br> PM2.5, TVOC, eCO2"] --> B{Device MCU};
-        B --> C["Data Packet Creation <br> Timestamp, Location, Sensor Data"];
+        A["Sensors <br/> PM2.5, TVOC, eCO2"] --> B{"Device MCU"};
+        B --> C["Data Packet Creation <br/> Timestamp, Location, Sensor Data"];
     end
 
     subgraph "User's Smartphone"
-        D["Vayu Mobile App"] --> E["Self-Custodial Wallet"];
+        D["Vayu Mobile App"] --> E{"Self-Custodial Wallet"};
         D --> F["Manage Device & View Data"];
     end
 
-    subgraph "Vayu Backend and peaq L1"
+    subgraph "Vayu Backend & peaq L1"
         G["Vayu Backend"] --> H["Data Processing & Anonymization"];
-        H --> I["peaq Blockchain <br> Data Hashing & Rewards"];
+        H --> I["peaq Blockchain <br/> Data Hashing & Rewards"];
         H --> J["Data Points Database"];
         J --> K["Vayu Explorer"];
         J --> L["B2B Data API"];
     end
 
-    C -- "Bluetooth Low Energy (BLE)" --> D;
-    D -- "Secure API Call" --> G;
-    E -- "Interact" --> I;
-    I -- "$VAYU Rewards" --> E;
+    C --"Bluetooth Low Energy (BLE)"--> D;
+    D --"Secure API Call"--> G;
+    E --"Interact"--> I;
+    I --"$VAYU Rewards"--> E;
+end
 ```
 
 ## Component Breakdown
