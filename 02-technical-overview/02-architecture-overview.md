@@ -30,7 +30,6 @@ graph TD
     D -- "Secure API Call" --> G;
     E -- "Interact" --> I;
     I -- "$VAYU Rewards" --> E;
-end
 ```
 
 ## Component Breakdown
