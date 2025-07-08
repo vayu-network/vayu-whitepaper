@@ -28,7 +28,7 @@
 * [Tokenomics](03-tokenomics/00-tokenomics.md)
    * [Token Distribution](03-tokenomics/01-token-distribution.md)
    * [Utility of the $VAYU Token](03-tokenomics/02-utility-of-the-vayu-token.md)
-   * [Early Adopter Airdrop](03-tokenomics/03-beta-airdrop.md)
+   <!-- * [Early Adopter Airdrop](03-tokenomics/03-beta-airdrop.md)
    * [Ecosystem Development & Treasury](03-tokenomics/04-ecosystem-development-treasury.md)
    * [CEX & DEX Liquidity](03-tokenomics/05-cex-dex-liquidity.md)
    * [Investors](03-tokenomics/06-investors.md)
@@ -41,7 +41,7 @@
    * [Future Community Rewards](03-tokenomics/12-future-community-rewards.md)
    * [Staking](03-tokenomics/13-staking.md)
    * [Data Monetization and Value Accrual](03-tokenomics/14-data-monetization-and-value-accrual.md)
-   * [On-Chain Activity](03-tokenomics/15-on-chain-activity.md)
+   * [On-Chain Activity](03-tokenomics/15-on-chain-activity.md) -->
 
 <!-- TODO: add back when we have more details -->
 <!-- * [Core Contributors](04-core-contributors/00-core-contributors.md)
