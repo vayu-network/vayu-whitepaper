@@ -12,7 +12,7 @@
    * [Our Honest Data Approach](01-vayu-network-introduction/05-our-honest-data-approach.md)
    * [How To Get Started](01-vayu-network-introduction/06-how-to-get-started.md)
 * [Technical Overview](02-technical-overview/00-technical-overview.md)
-   * [Why Blockchain? Why peaq?](02-technical-overview/01-why-blockchain-why-peaq.md)
+   * [Why Blockchain?](02-technical-overview/01-why-blockchain.md)
    * [Architecture Overview](02-technical-overview/02-architecture-overview.md)
    * [Self-Custodial Wallet](02-technical-overview/03-self-custodial-wallet.md)
    * [Measurement Processor](02-technical-overview/04-measurement-processor.md)

@@ -2,7 +2,7 @@
 
 **A High-Level Look at the Vayu.network Ecosystem**
 
-The Vayu.network architecture is designed as a robust, scalable, and secure system for collecting, processing, and utilizing indoor air quality data. The ecosystem consists of three main components: the Flux Hardware, the Vayu Mobile App, and the Vayu Backend Infrastructure, which is built on the peaq network.
+The Vayu.network architecture is designed as a robust, scalable, and secure system for collecting, processing, and utilizing indoor air quality data. The ecosystem consists of three main components: the Flux Hardware, the Vayu Mobile App, and the Vayu Backend Infrastructure, which is built on a leading Layer-1 blockchain.
 
 ## Data Flow Diagram
 
@@ -18,9 +18,9 @@ graph TD
         D --> F["Manage Device & View Data"]
     end
 
-    subgraph "Vayu Backend & peaq L1"
+    subgraph "Vayu Backend & L1 Blockchain"
         G["Vayu Backend"] --> H["Data Processing & Anonymization"]
-        H --> I["peaq Blockchain<br/>Data Hashing & Rewards"]
+        H --> I["Blockchain<br/>Data Hashing & Rewards"]
         H --> J["Data Points Database"]
         J --> K["Vayu Explorer"]
         J --> L["B2B Data API"]
@@ -44,8 +44,8 @@ graph TD
     *   **User Interface:** Allows users to view their real-time and historical air quality data, manage their device, and access their wallet.
     *   **Self-Custodial Wallet:** Holds the user's `$VAYU` tokens, giving them full control over their earnings.
 
-3.  **Vayu Backend & peaq L1:** The core infrastructure for data processing and value exchange.
+3.  **Vayu Backend & L1 Blockchain:** The core infrastructure for data processing and value exchange.
     *   **Data Processing:** The backend receives data from the app, performs final validation and anonymization, and prepares it for storage.
-    *   **peaq Blockchain Integration:** A hash of the data is stored on the peaq blockchain to ensure its integrity and immutability. The blockchain also handles the distribution of `$VAYU` rewards to contributors.
+    *   **Blockchain Integration:** A hash of the data is stored on the blockchain to ensure its integrity and immutability. The blockchain also handles the distribution of `$VAYU` rewards to contributors.
     *   **Database:** Processed and anonymized data points are stored in a secure and scalable database.
     *   **Vayu Explorer & API:** This database powers the public-facing Vayu Explorer map and the commercial B2B Data API, where third parties can access aggregated data using `$VAYU` tokens. 

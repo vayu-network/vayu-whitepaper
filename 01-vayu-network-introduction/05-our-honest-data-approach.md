@@ -16,7 +16,7 @@ Vayu.network is designed to collect only specific environmental data points: Par
 
 ## On-Chain Transparency
 
-In the Vayu.network, each data contribution is tied to the unique, anonymous ID of the Flux device. User consent and data transactions are planned to be recorded on the peaq blockchain, ensuring that every contribution is immutable, transparent, and verifiable. This provides a robust and auditable record of the data's origin, while protecting the privacy of the contributor.
+In the Vayu.network, each data contribution is tied to the unique, anonymous ID of the Flux device. User consent and data transactions are planned to be recorded on the Layer-1 blockchain, ensuring that every contribution is immutable, transparent, and verifiable. This provides a robust and auditable record of the data's origin, while protecting the privacy of the contributor.
 
 ## Audited Compliance
 

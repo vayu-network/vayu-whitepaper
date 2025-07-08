@@ -1,4 +1,4 @@
-# Why Blockchain? Why peaq?
+# Why Blockchain?
 
 **We chose to use blockchain technology for two main reasons: to create a powerful incentive structure and to ensure the highest standards of data verification and traceability.**
 
@@ -12,15 +12,15 @@ Blockchain enables a transparent, fair, and powerful reward system. Vayu.network
 
 Crucially, the blockchain provides an immutable ledger for data verification. It ensures that every data point contributed to the Vayu.network is authentic, verifiable, and securely recorded. This builds a level of trust and integrity into our dataset that traditional, centralized data collection methods simply cannot match.
 
-## Why We Chose peaq as our Layer-1
+## Why We Use a Layer-1 Blockchain
 
-**The short answer:** peaq is purpose-built for Decentralized Physical Infrastructure Networks (DePINs) and the Economy of Things.
+**The short answer:** A Layer-1 blockchain purpose-built for Decentralized Physical Infrastructure Networks (DePINs) and the Economy of Things is ideal for our needs.
 
-**The technical answer:** Selecting the peaq network as Vayu.network's Layer-1 blockchain was a strategic decision. Peaq's entire architecture is designed to support DePINs like ours, which rely on fleets of connected hardware devices.
+**The technical answer:** Selecting a suitable Layer-1 blockchain for Vayu.network was a strategic decision. The chosen network's architecture is designed to support DePINs like ours, which rely on fleets of connected hardware devices.
 
-Peaq's infrastructure provides several key advantages for a Hardware DePIN:
+The infrastructure provides several key advantages for a Hardware DePIN:
 
-*   **Verifiable Device Identity:** peaq's unique Decentralized Identifiers (DIDs) provide a secure, verifiable, and tamper-proof identity for each individual Flux device. This is essential for ensuring the provenance and integrity of the data collected from our hardware fleet.
+*   **Verifiable Device Identity:** The use of Decentralized Identifiers (DIDs) provides a secure, verifiable, and tamper-proof identity for each individual Flux device. This is essential for ensuring the provenance and integrity of the data collected from our hardware fleet.
 *   **Scalability and Efficiency:** Peaq offers a highly scalable, low-latency infrastructure capable of supporting millions of real-time data transactions from a global network of devices. Its low transaction costs are critical for making our rewards and data marketplace economically viable.
 *   **DePIN-Specific Functions:** Peaq's framework includes functions tailored for DePINs, such as device management and role-based access control, which aligns perfectly with our vision for autonomous data sharing and reward distribution.
 *   **Interoperability:** Peaq's focus on interoperability enhances Vayu.network's ability to connect with other decentralized networks and applications, expanding the potential value and utility of our air quality data.
